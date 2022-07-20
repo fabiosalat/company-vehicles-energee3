@@ -1,5 +1,6 @@
-# company-cehicles-energee3
-Full-stack web application in Spring Boot - MySQL - Angular 
+# company-vehicles-energee3
+Full-stack web application in Spring Boot - MySQL - Angular
+
 Progetto stage per Energee3
 
 ## Database
